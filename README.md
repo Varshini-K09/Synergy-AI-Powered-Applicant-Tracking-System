@@ -1,4 +1,4 @@
-# Synergy — AI-Powered Applicant Tracking System
+# AI-Powered Applicant Tracking System
 
 A full-stack recruitment management platform built with Django REST Framework. Synergy streamlines the end-to-end hiring pipeline — from job requisition approval to interview scheduling — with AI-assisted resume screening powered by the Groq LLM API and a RAG-based semantic matching engine.
 
